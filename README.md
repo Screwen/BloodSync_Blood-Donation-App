@@ -4,6 +4,7 @@
 BloodLine is a mobile application developed to streamline the blood donation process within the our community. Our platform serves as a vital bridge between individuals in urgent need of blood and local donors, ensuring that emergency requests are handled efficiently, reliably, and with transparency. By leveraging modern mobile technology, we aim to eliminate the delays often associated with finding blood during critical medical situations.  
 
 
+
 ## 🚀 Deployment & Installation
 
 ### Binary Packages
@@ -61,17 +62,20 @@ BloodLine/
 ```
 
 
+
 ## 👥 The Engineering Team
 
 Meet the minds behind the Network:
-* Md. Nura Nafiz Rahman : System Architect, Lead Backend Developer, and Firebase Integration Specialist.
-* Liven Rahman: Lead UI/UX Architect and Frontend Systems Developer.
+
+* **Md. Nura Nafiz Rahman :** System Architect, Lead Backend Developer, and Firebase Integration Specialist. Focused on data modeling, secure authentication gateways, and real-time database synchronization.
+* **Liven Rahman:** Lead UI/UX Architect and Frontend Systems Developer. Specialized in responsive interface engineering, reactive state management, and fluid user experience design.
 
 
 
 ## 📜 Legal Status
 
 This repository is currently under Proprietary Academic Use. No public license is defined. All rights reserved.
+
 
 
 <p align="center">
