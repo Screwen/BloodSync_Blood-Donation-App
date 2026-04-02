@@ -49,9 +49,6 @@ To begin your journey as a donor or requester, navigate to the Releases section 
 
 ```text
 BloodLine/
-├── assets/
-│   ├── brand/                 # Logos, Icons, and Launch Screen
-│   └── animations/            # Lottie/Loading visual assets
 ├── lib/
 │   ├── auth/                  # Security Gateways & Stream Logic
 │   ├── components/            # Atomic UI Units (Buttons, Inputs, Cards)
