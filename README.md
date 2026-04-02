@@ -79,7 +79,7 @@ BloodLine/
 
 Meet the minds behind the Network:
 
-* **Md. Nura Nafiz Rahman (Leader):** System Architect, Lead Backend Developer, and Firebase Integration Specialist.
+* **Md. Nura Nafiz Rahman:** System Architect, Lead Backend Developer, and Firebase Integration Specialist.
 * **Liven Rahman:** Lead UI/UX Architect, Frontend Systems Developer, and State Management Specialist.
 
 
