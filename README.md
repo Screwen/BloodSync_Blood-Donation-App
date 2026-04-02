@@ -1,7 +1,12 @@
 # BloodLine: Connecting Donors, Saving Lives.🩸
 
 
-BloodLine is a mobile application developed to streamline the blood donation process within the our community. Our platform serves as a vital bridge between individuals in urgent need of blood and local donors, ensuring that emergency requests are handled efficiently, reliably, and with transparency. By leveraging modern mobile technology, we aim to eliminate the delays often associated with finding blood during critical medical situations.  
+BloodLine is a mobile application developed to streamline the blood donation process within our community. Our platform serves as a vital bridge between individuals in urgent need of blood and local donors, ensuring that emergency requests are handled efficiently, reliably, and with transparency. By leveraging modern mobile technology, we aim to eliminate the delays often associated with finding blood during critical medical situations.
+
+
+
+
+
 
 
 
@@ -19,9 +24,16 @@ To begin your journey as a donor or requester, navigate to the Releases section 
 3. Launch the application and initialize your biometric/email credentials.
 4. Connect—The network is now live. Prepare to save lives.
 
+## ✨ Key Features
+* Authentication: Users login/resgister with Email and Password for secure privacy.
+* Real-time Request and Feedback: Users can post requestes and all the other usrs can see it in real-time and inform the user if they are willing to donate.
+* Dashboard feature: The requester can easily contact the donors from their post itself.
+* Profile Customization: Users can customize their profile to update their information.
+* Search and Filter: Users can search and look for all users by blood group and location.
 
 
-## 🗡️ System Architecture & Features
+
+## 🗡️ System Architecture
 
 ### Real-Time Infrastructure
 *Between guest and user states.
@@ -75,6 +87,9 @@ Meet the minds behind the Network:
 ## 📜 Legal Status
 
 This repository is currently under Proprietary Academic Use. No public license is defined. All rights reserved.
+
+
+
 
 
 
