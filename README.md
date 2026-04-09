@@ -1,7 +1,7 @@
-# BloodLine: Connecting Donors, Saving Lives.🩸
+# BloodSync: Connecting Donors, Saving Lives.🩸
 
 
-BloodLine is a mobile application developed to streamline the blood donation process within our community. Our platform serves as a vital bridge between individuals in urgent need of blood and local donors, ensuring that emergency requests are handled efficiently, reliably, and with transparency. By leveraging modern mobile technology, we aim to eliminate the delays often associated with finding blood during critical medical situations.
+BloodSync is a mobile application developed to streamline the blood donation process within our community. Our platform serves as a vital bridge between individuals in urgent need of blood and local donors, ensuring that emergency requests are handled efficiently, reliably, and with transparency. By leveraging modern mobile technology, we aim to eliminate the delays often associated with finding blood during critical medical situations.
 
 
 
@@ -15,7 +15,7 @@ BloodLine is a mobile application developed to streamline the blood donation pro
 ### Binary Packages
 To begin your journey as a donor or requester, navigate to the Releases section and select the package for your device:
 
-* **Android:** [📥 Download BloodLine_v1.0.0.apk](https://github.com/Screwen/Blood-Donation-App/releases/download/v1.0.0/app-release.apk) 📱
+* **Android:** [📥 Download BloodSync_v1.0.0.apk](https://github.com/Screwen/Blood-Donation-App/releases/download/v1.0.0/app-release.apk) 📱
 
 
 ### Execution Steps
@@ -61,7 +61,7 @@ To begin your journey as a donor or requester, navigate to the Releases section 
 ## 📂 System Topology
 
 ```text
-BloodLine/
+BloodSync/
 ├── lib/
 │   ├── auth/                  # Security Gateways & Stream Logic
 │   ├── components/            # Atomic UI Units (Buttons, Inputs, Cards)
